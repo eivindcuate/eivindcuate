@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Eivind!</h1>
 
-<p align="center"><b> Computer Science Student at Lehman College </b> </p>
+<p align="center"><b>  | Passionate about Web Development | Java | Algorithms | Software Development | Learning & Building Projects</b> </p>
 
 <hr>
 
